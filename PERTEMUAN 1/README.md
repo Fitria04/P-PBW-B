@@ -7,3 +7,4 @@
 ## Rekap pembahasan di Pertemuan 1
 1. Instalasi Git 
 2. Konfigurasi Awal dengan email
+hyhyjyyy
